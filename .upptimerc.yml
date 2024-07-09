@@ -15,9 +15,13 @@ assignees:
 
 status-website:
   baseUrl: /status-page
+  name: "Oreo's Projects"
   logoUrl: https://raw.githubusercontent.com/Oreoxmt/oreo.life-v2/main/website/static/img/logo.png
+  favicon: https://raw.githubusercontent.com/Oreoxmt/oreo.life-v2/main/website/static/img/logo.png
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
+    - title: Blog
+      href: https://oreo.life
