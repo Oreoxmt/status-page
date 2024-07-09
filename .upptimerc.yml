@@ -14,7 +14,7 @@ assignees:
   - Oreoxmt
 
 status-website:
-  cname: status.oreo.life
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/Oreoxmt/oreo.life-v2/main/website/static/img/logo.png
   navbar:
     - title: Status
