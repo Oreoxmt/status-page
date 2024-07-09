@@ -12,13 +12,3 @@ sites:
 
 assignees:
   - Oreoxmt
-
-status-website:
-  cname: v1.oreo.life
-  baseUrl: /tool
-  logoUrl: https://raw.githubusercontent.com/Oreoxmt/oreo.life-v2/main/website/static/img/logo.png
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
